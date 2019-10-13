@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.NoSuchElementException;
 public class ArrList <E>{
     private E a[];

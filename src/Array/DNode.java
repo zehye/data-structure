@@ -1,4 +1,4 @@
-import com.sun.org.apache.bcel.internal.generic.ARETURN;
+package Array;
 
 public class DNode<E> {
     private E item;
